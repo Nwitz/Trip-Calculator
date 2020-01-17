@@ -1,66 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dc7c466-f814-4c01-81f2-2a6d0f0a4f00" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="8dc7c466-f814-4c01-81f2-2a6d0f0a4f00" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trip Calculator/Contributor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trip Calculator/Contributor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trip Calculator/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trip Calculator/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trip Calculator/DriverKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trip Calculator/DriverKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trip Calculator/META-INF/Trip Calculator.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trip Calculator/META-INF/Trip Calculator.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trip Calculator/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trip Calculator/Purchase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trip Calculator/Purchaser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trip Calculator/Purchaser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trip Calculator/Terminal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trip Calculator/Terminal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trip Calculator/Trip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trip Calculator/Trip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Driver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Driver.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Purchase.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Purchase.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="66" selection-start-column="66" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Trip.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Trip.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Driver.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Driver.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Purchaser.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Purchaser.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contributor.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Contributor.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,85 +26,33 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Contributor.kt" />
-        <option value="$PROJECT_DIR$/src/Purchaser.kt" />
-        <option value="$PROJECT_DIR$/src/Purchase.kt" />
-        <option value="$PROJECT_DIR$/src/Trip.kt" />
-        <option value="$PROJECT_DIR$/src/main.kt" />
-        <option value="$PROJECT_DIR$/src/Terminal.kt" />
-        <option value="$PROJECT_DIR$/src/Driver.kt" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="162" />
-    <option name="y" value="-12" />
-    <option name="width" value="657" />
-    <option name="height" value="480" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Trip Calculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trip Calculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trip Calculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trip Calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1WPgMRyepUu7dq0rSLTwLSUHrJy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Kotlin.DriverKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Driver" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="Trip Calculator" />
@@ -158,6 +63,9 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Driver" />
       <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="DriverKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Trip Calculator" />
@@ -168,28 +76,18 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="DriverKt" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Kotlin.Driver" />
@@ -200,6 +98,18 @@
         <item itemvalue="Kotlin.DriverKt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -214,102 +124,42 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32922536" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.312187" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Purchase.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contributor.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/collections/Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="132" column="22" selection-start-line="132" selection-start-column="22" selection-end-line="132" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Purchaser.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Purchase.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="66" selection-start-column="66" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trip.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Terminal.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trip Calculator.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Driver.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="719" y="243" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579056778648">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="719" y="243" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2560.1053/2560.0.1920.1080@0.27.2560.1053" timestamp="1579056778648" />
+    <state x="1105" y="477" width="301" height="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579056623691">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1105" y="477" width="301" height="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.2560.1053/2560.0.1920.1080@0.27.2560.1053" timestamp="1579056623691" />
+    <state width="1358" height="336" key="GridCell.Tab.0.bottom" timestamp="1579058692164">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1358" height="336" key="GridCell.Tab.0.bottom/0.27.2560.1053/2560.0.1920.1080@0.27.2560.1053" timestamp="1579058692164" />
+    <state width="1358" height="336" key="GridCell.Tab.0.center" timestamp="1579058692164">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1358" height="336" key="GridCell.Tab.0.center/0.27.2560.1053/2560.0.1920.1080@0.27.2560.1053" timestamp="1579058692164" />
+    <state width="1358" height="336" key="GridCell.Tab.0.left" timestamp="1579058692164">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1358" height="336" key="GridCell.Tab.0.left/0.27.2560.1053/2560.0.1920.1080@0.27.2560.1053" timestamp="1579058692164" />
+    <state width="1358" height="336" key="GridCell.Tab.0.right" timestamp="1579058692164">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state width="1358" height="336" key="GridCell.Tab.0.right/0.27.2560.1053/2560.0.1920.1080@0.27.2560.1053" timestamp="1579058692164" />
+    <state x="822" y="222" width="1022" height="737" key="SettingsEditor" timestamp="1579057707785">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="822" y="222" width="1022" height="737" key="SettingsEditor/0.27.2560.1053/2560.0.1920.1080@0.27.2560.1053" timestamp="1579057707785" />
+    <state x="1058" y="713" width="666" height="345" key="com.intellij.ide.util.TipDialog" timestamp="1579057668042">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="1058" y="713" width="666" height="345" key="com.intellij.ide.util.TipDialog/0.27.2560.1053/2560.0.1920.1080@0.27.2560.1053" timestamp="1579057668042" />
+    <state x="924" y="300" width="672" height="687" key="search.everywhere.popup" timestamp="1579058023061">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="924" y="300" width="672" height="687" key="search.everywhere.popup/0.27.2560.1053/2560.0.1920.1080@0.27.2560.1053" timestamp="1579058023061" />
   </component>
 </project>

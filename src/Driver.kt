@@ -2,7 +2,7 @@ import java.io.File
 import java.util.stream.Stream
 
 fun main(args: Array<String>) {
-
+    println("hello world")
 }
 
 object Driver{
@@ -20,8 +20,9 @@ object Driver{
         val numberOfPeopleOnTrip: Int
         //TODO 2: Enter name of those on trip
         numberOfPeopleOnTrip = Terminal.printInputInt("How many People were on this trip?")
-        for(i in 1..numberOfPeopleOnTrip) {
-
+        var names = Array(numberOfPeopleOnTrip) {""}
+        for(i in 0 until numberOfPeopleOnTrip) {
+            names[i] = Terminal.printInputString("Enter person ${i+1}")
         }
     }
 
