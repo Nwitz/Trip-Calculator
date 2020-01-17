@@ -3,6 +3,9 @@ import java.util.stream.Stream
 
 fun main(args: Array<String>) {
     println("hello world")
+
+    // step one, ask to load trip or start new trip
+    Driver.loadTrip()
 }
 
 object Driver{
@@ -20,19 +23,23 @@ object Driver{
         val numberOfPeopleOnTrip: Int
         //TODO 2: Enter name of those on trip
         numberOfPeopleOnTrip = Terminal.printInputInt("How many People were on this trip?")
-        var names = Array(numberOfPeopleOnTrip) {""}
+        val names = Array(numberOfPeopleOnTrip) {""}
         for(i in 0 until numberOfPeopleOnTrip) {
             names[i] = Terminal.printInputString("Enter person ${i+1}")
         }
+
     }
 
     fun loadTrip() {
         val files = ArrayList<String>()
 
-        File("/Trips").walk().forEach {
-            files.add(it.nameWithoutExtension)
-
+        File("./Trips/").walk().forEach {
+            if (it.toString().contains(".json")) {
+                files.add(it.nameWithoutExtension)
+            }
         }
+        files.trimToSize()
+        val selection = Terminal.printSelection("Select the trip you would like to open.", files)
     }
 }
 
@@ -56,14 +63,15 @@ object Terminal {
         return input
     }
 
-    public fun printSelection(instruction: String, options: Array<String>): Int {
+    // outputs corrected value
+    public fun printSelection(instruction: String, options: ArrayList<String>): Int {
         println("\n" + instruction)
         var input = -1
         while(input > options.size || input < 1) {
-            for (i in 1..options.size) {
+            for (i in 0 until options.size) {
                 println("$i: ${options[i]}")
             }
-            input = readLine()!!.toInt()
+            input = readLine()!!.toInt() - 1
         }
         return input
     }
